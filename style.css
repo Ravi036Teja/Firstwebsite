@@ -108,7 +108,8 @@ nav .bi{
         display: block;
     }
     .nav-links{
-        background: #023047;
+        background: #white;
+        color:#fb5607;
         position:fixed;
         height: 100vh;
         width: 200px;
